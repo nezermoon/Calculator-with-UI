@@ -1,9 +1,3 @@
-// let button = document.querySelectorAll('button[id=button]');
-// let clear = document.querySelector('button[class=clear]');
-// let backSpace = document.querySelector('button[class=backspace]');
-// let operations = document.querySelectorAll('button[class=operations]');
-// let output = document.querySelector('div[class=output]');
-
 import {button} from './view.js';
 import {clear} from './view.js';
 import {backSpace} from './view.js';
